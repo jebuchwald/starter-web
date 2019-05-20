@@ -8,6 +8,7 @@
 # THANKS
 
     No one
+    It's not worth it
 
 # TECHNOLOGY COLOPHON
 
